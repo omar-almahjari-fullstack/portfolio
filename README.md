@@ -86,13 +86,14 @@ These images are in `assets/images/` and will display on GitHub when the reposit
 
 ### Image Preview
 
+![Home Screen](assets/images/Home.jpg)
+
+![Login Screen](assets/images/login.png)
+
 ![Chat Screen](assets/images/chat.png)
 
 ![Dashboard Screen](assets/images/dashboard.png)
 
-![Home Screen](assets/images/Home.jpg)
-
-![Login Screen](assets/images/login.png)
 
 ## Notes
 
